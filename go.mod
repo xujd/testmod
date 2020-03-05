@@ -1,3 +1,3 @@
-module git.inspur.com/xu.jd/testmod
+module github.com/xujd/testmod
 
 go 1.13
